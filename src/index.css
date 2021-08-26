@@ -1,0 +1,42 @@
+:root{
+  --primary-color: #0f1b6d;
+  --secondary-color: #ffeda3;
+  --dark-background: rgba(36, 36, 36, 1);
+  --light-background: #ebe7e3;
+  --dark-color: #86827e;
+  --light-color: #080808;
+
+  --dark-text: #fff;
+  --light-text: #000;
+  --menu-speed: 0.75s;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: var(--light-background);
+  color: var(--light-color);
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.dark-mode{
+  background-color: var(--dark-background);
+  color: var(--dark-color);
+}
+
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+} */
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  overflow: hidden;
+  padding: 0 3rem;
+}

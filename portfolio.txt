@@ -1,0 +1,60 @@
+[CONTENIDO]
+
+Hola,
+Soy Marco Arias
+desarrollador web
+
+Frontend developer / React JS
+
+escríbeme
+
+
+
+Quién soy
+Mi conocimiento
+Mi trabajo
+Blog
+Contacto
+
+
+
+twitter
+
+linkedin
+
+facebook
+
+youtube
+
+discord
+
+tiktok
+
+
+
+[DISEÑO]
+
+#fdfaf6
+Primario
+#2940d3
+	#0f1b6d
+Secundario
+#ffeda3
+
+EFECTO DARK THEME:
+Negro
+#232323
+
+
+
+[PROGRAMACIÓN]
+modelo
+https://jacekjeznach.com/
+
+menú hamburguesa & efecto |overlay
+https://www.youtube.com/watch?v=DZg6UfS5zYg
+
+
+npx create-react-app .
+
+npm i animate.css --save
